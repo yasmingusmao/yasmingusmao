@@ -1,4 +1,7 @@
 # Hey, eu sou Yasmin ✨  
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmingusmao&layout=compact&theme=radical" alt="Top Langs" />
+</div>
 Seja bem-vindo(a) ao meu espaço no GitHub.
 
 
