@@ -1,7 +1,4 @@
 # Hey, eu sou Yasmin ✨  
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmingusmao&layout=compact&theme=radical" alt="Top Langs" />
-</div>
 Seja bem-vindo(a) ao meu espaço no GitHub.
 
 
@@ -19,7 +16,7 @@ Interessada em construir experiências que façam sentido
 ## ⚙️ Stacks em desenvolvimento
 
 **Front-end**  
-HTML · CSS · JavaScript  
+HTML · CSS · ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E )  
 
 **Back-end**  
 Python
