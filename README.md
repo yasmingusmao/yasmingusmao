@@ -24,9 +24,7 @@ Interessada em construir experiências que façam sentido
 Aprofundando fundamentos, lapidando lógica,  
 aprendendo a transformar conceitos em experiências.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmingusmao&layout=compact&theme=radical" alt="Linguagens mais usadas" />
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
