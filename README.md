@@ -6,6 +6,8 @@ Entre lógica e sensibilidade,
 construindo caminhos em código.
 
 ---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasmingusmao)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 🌑 Em constante construção
 
