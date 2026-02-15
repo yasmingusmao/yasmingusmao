@@ -1,6 +1,5 @@
-# Hey ✨
-
-Full Stack Developer in Formation
+# Hey, eu sou Yasmin ✨  
+Seja bem-vindo(a) ao meu espaço ao meu espaço no GitHub.
 
 
 Entre lógica e sensibilidade,  
