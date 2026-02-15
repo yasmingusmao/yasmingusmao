@@ -24,7 +24,7 @@ Interessada em construir experiências que façam sentido
 Aprofundando fundamentos, lapidando lógica,  
 aprendendo a transformar conceitos em experiências.
 
-[!(https://github-readme-stats.vercel.app/api?username=yasmingusmao)](https://github.com/anuraghazra/github-readme-stats)
+[!(https://github-readme-stats.vercel.app/api?username=yasmingusmao)](https://github.com/yasmingusmao/github-readme-stats)
 
 ---
 
