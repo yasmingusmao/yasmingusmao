@@ -24,8 +24,6 @@ Interessada em construir experiências que façam sentido
 Aprofundando fundamentos, lapidando lógica,  
 aprendendo a transformar conceitos em experiências.
 
-![https://github-readme-stats.vercel.app/api/top-langs/?username=yasmingusmao&layout=compact&theme=radical]
-
 ---
 
 ## 🧠 Antes do código
