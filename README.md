@@ -10,8 +10,7 @@ construindo caminhos em código.
 ## 🌑 Em constante construção
 
 Desenvolvedora full stack em formação.  
-Interessada em construir experiências que façam sentido  
-— técnica e esteticamente.
+Interessada em construir experiências que façam sentido  — técnica e esteticamente.
 
 
 ## ⚙️ Stacks em desenvolvimento
