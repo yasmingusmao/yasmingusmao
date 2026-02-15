@@ -1,16 +1,54 @@
-## Hi there 👋
+# Yasmin ✨
 
-<!--
-**yasmingusmao/yasmingusmao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Entre lógica e sensibilidade,  
+construindo caminhos em código.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌑 Em constante construção
+
+Desenvolvedora full stack em formação.
+Interessada em construir experiências que façam sentido 
+— técnica e esteticamente.
+
+## ⚙️ Stacks em desenvolvimento
+
+**Front-end**  
+HTML · CSS · JavaScript  
+
+**Back-end**  
+Python
+
+Aprofundando fundamentos, lapidando lógica,  
+aprendendo a transformar conceitos em experiências.
+
+---
+
+## 🧠 Antes do código
+
+Uma jornada longa pelo comportamento humano.
+
+Hoje, essa bagagem ecoa em:
+
+- pensamento analítico  
+- atenção a detalhes  
+- visão centrada no usuário  
+- compreensão de comportamento & experiência 
+
+---
+
+## 🌿 O que você encontrará aqui
+
+- Projetos de estudo  
+- Experimentos práticos  
+- Evolução contínua  
+
+---
+
+## 📫 Contato
+
+- LinkedIn: www.linkedin.com/in/yasmin-gusmao
+
+---
+
+✨ Obrigada por visitar meu perfil
