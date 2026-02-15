@@ -1,4 +1,7 @@
-# Yasmin ✨
+# Hey ✨
+
+Full Stack Developer in Formation
+
 
 Entre lógica e sensibilidade,  
 construindo caminhos em código.
